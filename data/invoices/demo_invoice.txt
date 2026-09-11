@@ -1,0 +1,7 @@
+Invoice Number: INV-1001
+PO Number: PO-5001
+Vendor: VEND-17
+Invoice Date: 2026-09-08
+Quantity: 15
+Unit Price: INR 52000
+Subtotal: INR 780000
