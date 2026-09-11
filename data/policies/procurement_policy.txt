@@ -1,0 +1,9 @@
+Invoice quantities must not exceed the quantity approved on the purchase order or the quantity recorded as received on the goods receipt note.
+
+Supplier invoices should use the agreed purchase-order unit price. A higher unit price requires documented approval before payment.
+
+Invoices with duplicate invoice numbers must be placed on hold until the duplicate is investigated.
+
+Invoices with a material quantity, price, tax, or vendor mismatch should be routed to a human reviewer rather than automatically approved.
+
+When a mismatch creates significant financial exposure, the payment should remain on hold until procurement and accounts payable resolve the discrepancy.
